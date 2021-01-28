@@ -12,8 +12,7 @@ option + command + P
 
 ## Screenshots
 
-![Alt Text](/One/gif/One.gif)
-<img src="/One/gif/One.gif" width="100" height="80" />
+![alt text](https://github.com/slf188/One/gif/One.gif)
 
 ## Author
 
