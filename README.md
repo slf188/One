@@ -12,7 +12,7 @@ option + command + P
 
 ## Screenshots
 
-![alt text](https://github.com/slf188/One/gif/One.gif)
+![alt text](https://github.com/slf188/One/blob/main/gif/One.gif)
 
 ## Author
 
